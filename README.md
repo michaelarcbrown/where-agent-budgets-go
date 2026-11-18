@@ -126,6 +126,6 @@ checked. A job blocked by a budget waits; it does not fail.*
 ## Citation
 
 Brown, M. (2026). *Where Agent Budgets Actually Go: a case study of four failure modes behind token bleed and agent loops.*
-Zenodo. DOI: _(added on publication)_
+Zenodo. DOI: [10.5281/zenodo.24329602](https://doi.org/10.5281/zenodo.24329602)
 
 Related: Brown, M. (2026). Preprint on how language models invent details about real products. DOI 10.5281/zenodo.22059291
